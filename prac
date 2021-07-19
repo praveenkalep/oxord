@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  </head>
+  <body style="background-color:lightblue">
+  <img src="https://asiaexchange.org/wp-content/uploads/2020/03/Shanghai-University-Shanghai-China-1.jpg" style="width:1300px;height:300px;">
+<h1 style="color:Blue;">About Us</h1>
+  <p style="color:Green;"> Oxford has a distinctive collegiate structure. Students and academics benefit from belonging both to the University, a large, internationally-renowned institution, and to a college or hall, a small, interdisciplinary academic community.</p>
+
+<h2 style="color:Blue;">The colleges and halls</h2>
+
+  <p style="color:Green;">There are 39 Oxford colleges, which are financially independent and self-governing, but relate to the central University in a kind of federal system. There are also six permanent private halls, which are similar to colleges except that they tend to be smaller, and were founded by particular Christian denominations. The colleges and halls are close academic communities, which bring together students and researchers from different disciplines, cultures and countries. This helps to foster the outstanding research achievement that has made Oxford a leader in so many fields.
+
+The colleges and the University work together to organise teaching and research, and many staff at Oxford will hold both a college and a University post.
+
+If you are interested in undergraduate study at Oxford, please consult our information on colleges for prospective undergraduates.</p>
+<h3 style="color:blue;">The central University</h3>
+<p style="color:green;">The central University is made up of many different sections, including academic and administrative departments, libraries and museums.
+
+There are roughly 100 major academic departments, which are overseen by the four academic divisions: Medical Sciences; Mathematical, Physical and Life Sciences; Humanities and Social Sciences.
+
+Each department organises teaching and research in a different subject area, from Anthropology to Zoology. There are also many smaller, specialist research centres and sub-departments.
+
+The Department for Continuing Education offers part-time, flexible courses and programmes for adult learners. It offers more than 1,000 courses each year, including weekly classes, online courses, day, weekend and summer schools, undergraduate and postgraduate qualifications, and continuing professional development courses.</p>
+<h4 style="color:Blue;">Conduct Us</h4>
+<p> <a href="https://www.facebook.com/the.university.of.oxford/ "target="_blank"> Facebook</a><br>
+  <a href="https://www.instagram.com/oxford_uni/?hl=en " target="_blank">Instagram</a><br>
+  <p>Phone Number 0114596235</p>
+
+</p>
+<p style="color:red;">Is this page use full</p><br>
+<form> <input type="radio"  id="yes"name="choose one" value="Yes">
+  <label style="color:red;" for="yes">Yes</label>
+  <input type="radio"id="no" name="choose one" value="No">
+  <label style="color:red;"for'no'>No</label>
+</form>
+</body>
+</html>
